@@ -1,7 +1,9 @@
 # Intro-to-Java-CA-Assignment
 
-2nd Year Semester 1.
+2nd Year Semester 1 Intro to Java (Autumn 2019).
+
 Grade Recieved: A+
+
 See pdf report
 
 Task:
